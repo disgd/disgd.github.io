@@ -1,2 +1,2 @@
-# disgd.github.io
-Official Discord(CLONE) Repository
+# Discord
+<div class="row-3wW-Fx heroContainer-3j1eQg"><div class="heroBody-3b6R3c"><div class="heroText-Sc7-zG"><h1 class="h1-1JG5Bw">Your place to talk</h1><div class="text-3U-SDd textMedium-1DcD2z heroSubtitle-32Iz6d"><p>Whether you’re part of a school club, gaming group, worldwide art community, or just a handful of friends that want to spend time together, Discord makes it easy to talk every day and hang out more often.</p></div></div><div class="ctaContainer-3vWJHU"><a class="button-195cDm buttonWhite-18r1SC buttonLarge-2j8B-n downloadButton-111eh6 twoButtons-3Bk8eU" href="//discord.com/api/downloads/distributions/app/installers/latest?channel=stable&amp;platform=win&amp;arch=x86"><svg width="24" height="24" viewBox="0 0 24 24" class="icon-nuGd5b"><g fill="currentColor">
